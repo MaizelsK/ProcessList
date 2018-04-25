@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26228.4
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProcessList", "ProcessList\ProcessList.csproj", "{695E116A-E293-4918-9C0A-D92F43416C11}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{695E116A-E293-4918-9C0A-D92F43416C11}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{695E116A-E293-4918-9C0A-D92F43416C11}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{695E116A-E293-4918-9C0A-D92F43416C11}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{695E116A-E293-4918-9C0A-D92F43416C11}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
